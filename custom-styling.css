@@ -1,0 +1,15 @@
+
+body {
+    background: rgb(0,0,0);
+    background: linear-gradient(350deg, rgb(0,0,0,1) 80%, rgba(61, 1, 33,1) 90%, rgba(226, 114, 91,1) 100%); 
+}
+
+.project {
+    background: rgb(0,0,0);
+    background: linear-gradient(10deg, rgba(0,0,0,1) 0%, rgba(61, 1, 33,1) 71%, rgba(226, 114, 91,1) 100%); 
+}
+
+.button {
+    background: rgb(0,0,0);
+    background: linear-gradient(10deg, rgba(0,0,0,1) 0%, rgba(61, 1, 33,1) 71%, rgba(226, 114, 91,1) 100%);
+}
